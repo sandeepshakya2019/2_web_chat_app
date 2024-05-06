@@ -1,3 +1,4 @@
 1) npm install @mui/material @emotion/react @emotion/styled => MUI Library
+   npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
 2) npm install --save chart.js react-chartjs-2 react-router-dom moment react-toastify
 3) 
