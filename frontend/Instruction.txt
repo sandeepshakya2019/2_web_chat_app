@@ -1,4 +1,5 @@
 1) npm install @mui/material @emotion/react @emotion/styled => MUI Library
    npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
 2) npm install --save chart.js react-chartjs-2 react-router-dom moment react-toastify
-3) 
+3) Add mui and react-router-dom
+4) Add Pages (Login, Register, Chat and Group) => In lazy mode
