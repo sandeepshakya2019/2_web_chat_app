@@ -1,11 +1,11 @@
-import React from "react";
+import React, { useEffect } from "react";
+import { toast } from "react-toastify";
 
 function App() {
-  return (
-    <div className="App">
-      App
-    </div>
-  );
+  useEffect(() => {
+    toast.success("msg");
+  }, []);
+  return <div className="App">App</div>;
 }
 
 export default App;
