@@ -1,4 +1,4 @@
-import React, { useEffect, lazy } from "react";
+import React, { lazy } from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 // import Home from "./Pages/Home";
 const Home = lazy(() => import("./Pages/Home"));
