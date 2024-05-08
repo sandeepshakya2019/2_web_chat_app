@@ -5,4 +5,5 @@
 4) Add Pages (Login, Register, Chat and Group) => In lazy mode
 5) Add user Login and Register Form (with validations)
 6) Add redirection with fake user (boolean true or false) Protected Routes
-7) Add Applayout with wrapped component
+7) Add Applayout with wrapped component (without logic)
+8) Create the Header Component (without logic)
