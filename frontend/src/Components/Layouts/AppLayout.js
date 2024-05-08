@@ -17,7 +17,7 @@ const AppLayout = () => (WrappedComponent) => {
           }}
           height={"100%"}
         >
-          dsgf
+          All Chats
         </Grid>
         <Grid item xs={12} sm={8} md={5} lg={6} height={"100%"}>
           <WrappedComponent {...props} />
@@ -34,7 +34,7 @@ const AppLayout = () => (WrappedComponent) => {
             bgcolor: "rgba(0,0,0,0.85)",
           }}
         >
-          {/* <Profile user={user} /> */}
+          User Profile
         </Grid>
       </Grid>
     </div>
@@ -42,17 +42,3 @@ const AppLayout = () => (WrappedComponent) => {
 };
 
 export default AppLayout;
-
-// function AppLayout() {
-//   return function WrappedComponent() {
-//     return function (props) {
-//       return (
-//         <div>
-//           <div>Header</div>
-//           <WrappedComponent {...props} />
-//           <div>Footer</div>
-//         </div>
-//       );
-//     };
-//   };
-// }
