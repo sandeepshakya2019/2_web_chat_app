@@ -1,7 +1,8 @@
 import React from "react";
+import AppLayout from "../Components/Layouts/AppLayout";
 
 function Chat() {
   return <div>Chat</div>;
 }
 
-export default Chat;
+export default AppLayout()(Chat);
