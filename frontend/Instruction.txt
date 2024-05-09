@@ -7,3 +7,4 @@
 6) Add redirection with fake user (boolean true or false) Protected Routes
 7) Add Applayout with wrapped component (without logic)
 8) Create the Header Component (without logic)
+9) Create the Chat Component and Profile Card (CSS based)
